@@ -5,6 +5,9 @@
 # Name of your site (displayed in the header)
 name: Grisson's notebook 
 
+# for hacker theme
+title: Grisson's notebook 
+
 # Short bio or description (displayed in the header)
 description: I'm a enginner in software, electrical and mechanical.
 
