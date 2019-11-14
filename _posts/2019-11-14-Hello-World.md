@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Grisson's Blog is up and running!!!
 ---
 
